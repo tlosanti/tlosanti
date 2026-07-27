@@ -34,6 +34,7 @@ welding, Python, computational geometry, and mesh validation.
 ## Background
 
 Bachelor of Science in Mechanical Engineering, University of Alberta -
-expected 2027.
+expected 2027. Certified SOLIDWORKS Associate (CSWA), Dassault Systèmes -
+March 2026.
 
 [LinkedIn](https://www.linkedin.com/in/santiago-castellanos-27940b351/)
